@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  height: 100vh;
+}
+
+.container {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  width: 70%;
+  padding-left: 30px;
+}
+
+.heading {
+  font-size: 30px;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+}
+
+.dropdown {
+  width: 30%;
+  height: 35px;
+  margin-right: 20px;
+}
+
+.capital {
+  font-size: 24px;
+  font-weight: bold;
+}
